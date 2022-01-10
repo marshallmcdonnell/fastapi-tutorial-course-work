@@ -8,6 +8,7 @@ authors = ["Marshall McDonnell <mcdonnellmt@ornl.gov>"]
 python = "^3.8"
 fastapi = "^0.71.0"
 uvicorn = "^0.16.0"
+Jinja2 = "^3.0.3"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
