@@ -10,6 +10,7 @@ Differences from the main tutorial are:
 
 Install (after git clone):
 ```
+cd backend/
 poetry install
 ```
 
